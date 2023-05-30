@@ -1,4 +1,4 @@
-package tests.medunnaProje;
+package tests.medunnaProjeCalisma;
 
 public class medunnaProjeStepDefinitions {
 
